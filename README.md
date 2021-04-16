@@ -1,7 +1,8 @@
-![Ralfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfereis&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfereis&show_icons=true&theme=nightowl)
 
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 ! </h1>
+==========================================================================================================================================
+
+My name is Ralfe Reis. I work as a Student at MeAndMyself.
 
 - 💜 I am passionate about programming. 
 
@@ -9,24 +10,37 @@
 
 - 💻 I still don't work full time with systems development. In 2014, I developed, my first tool, an asset control system for the company I work for, using Access and VBA, which is being used until today.
 
-- 👨‍💻 I’m currently learning NodeJS, ReactJS, ReactNative and Typescript in **Rockseat**. I intend to be a fullstack developer.
+-I’m currently learning NodeJS, ReactJS, ReactNative and Typescript in. I intend to be a fullstack developer.
 
 - My goal is to work full time with systems development.
 
-- 📧 ralfe-dev@outlook.com or ralfe.cavalcante@gmail.com
-- 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ralfereis&repo=ralfereis&countColorcountColor)
 
-#
-## Olá pessaoal 👋
+### Analytics ⚙️
 
-💜 Sou apaixonado por programação.
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfereis&layout=compact&count_private=true&show_icons=true&theme=dracula)
 
-- 🎓 Em 2020 me formei em Análise e Desenvolvimento de Sistemas pela Pontifícia Universidade Católica de Brasília.
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=ralfereis&count_private=true&show_icons=true&show_icons=true&theme=dracula)
 
-- 💻 Ainda não trabalho em tempo integral com desenvolvimento de sistemas. Em 2014, desenvolvi, minha primeira ferramenta, um sistema de controle de ativos para a empresa que trabalho, utilizando Access e VBA, que está em uso até hoje.
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ralfereis&hide_border=true&show_icons=true&theme=dracula)
 
-- 👨‍💻 Atualmente estou aprendendo NodeJS, ReactJS, ReactNative e Typescript na in **Rockseat**. Pretendo ser um desenvolvedor fullstack.
+### Let's connect? 🤝
 
-- Meu objetivo é trabalhar em tempo integral com desenvolvimento de sistemas.
+<p align="left">
 
-- 📧 ralfe-dev@outlook.com ou ralfe.cavalcante@gmail.com
+<a href="https://www.linkedin.com/in/ralfe-reis-8b0140a0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://twitter.com/ralfe_reis"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ralfe.cavalcante@gmail.com" />
+
+
+<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:ralfe-dev@outlook.com" />
+
+</p>
+
+
+
+
+
+
