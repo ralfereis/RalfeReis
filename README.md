@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 ! </h1>
-==========================================================================================================================================
+
 
 My name is Ralfe Reis. I work as a Student at MeAndMyself.
 
