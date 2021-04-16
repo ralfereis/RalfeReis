@@ -10,7 +10,7 @@ My name is Ralfe Reis. I work as a Student at MeAndMyself.
 
 - 💻 I still don't work full time with systems development. In 2014, I developed, my first tool, an asset control system for the company I work for, using Access and VBA, which is being used until today.
 
--I’m currently learning NodeJS, ReactJS, ReactNative and Typescript in. I intend to be a fullstack developer.
+- I’m currently learning NodeJS, ReactJS, ReactNative and Typescript in. I intend to be a fullstack developer.
 
 - My goal is to work full time with systems development.
 
@@ -32,10 +32,9 @@ My name is Ralfe Reis. I work as a Student at MeAndMyself.
 
 <a href="https://twitter.com/ralfe_reis"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ralfe.cavalcante@gmail.com" />
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:ralfe.cavalcante@gmail.com" />
 
-
-<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:ralfe-dev@outlook.com" />
+<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:ralfe-dev@outlook.com" />
 
 </p>
 
